@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<table style="border-collapse: collapse;">
+<table>
   <tr>
     <td>Name</td>
     <td>John Smith</td>

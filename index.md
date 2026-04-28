@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Ethics in IT](ITethics.md)
 <table>
   <tr>
     <td>Name</td>

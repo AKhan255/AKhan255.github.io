@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Home
+# Home
 
 [Home](index.md) | [Ethics in IT](ITethics.md) | [Bird](bird.md)
 <table>

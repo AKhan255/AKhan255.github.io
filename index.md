@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Ethics in IT](ITethics.md)
+[Home](index.md) | [Ethics in IT](ITethics.md) | [Bird](bird.md)
 <table>
   <tr>
     <td>Name</td>
